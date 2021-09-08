@@ -3,7 +3,6 @@ Welcome to my profile on GitHub!
 - 🔭 I’m currently working on Computational Materials Science using Vienna Ab-Initio Simulation Package (VASP) to comprehend lattice-mismatched two dimensional materials, i.e., Twistronics.
 - 👯 I’m looking to collaborate on Python and Shell scripts to facilitate and expedite running jobs at VASP and Quantum Espresso softwares.
 - 🤔 I’m looking for help with Machine Learning scripts and new libraries/commands for Python and Shell programming languages.
-- ⚡ I am a Chemical Engineer who is studying Solid State Physics to obtain his Master's degree.
 
  <div>
   <a href="https://github.com/lucastaveirac">
